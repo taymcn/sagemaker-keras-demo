@@ -1,4 +1,4 @@
-Amazon SageMaker is a modular, fully managed Machine Learning service that lets you easily build, train and deploy models at any scale. 
+Amazon SageMaker is a modular, fully managed Machine Learning service that lets you easily build, train and deploy models at any scale. https://aws.amazon.com/sagemaker/
 
 In this demo, we demonstrate using SageMaker's script mode, managed spot training, Debugger, Automatic Model Tuning, Experiments, and Model Monitor features. 
 
