@@ -6,7 +6,7 @@ We'll use Keras with the TensorFlow backend to build a simple Convolutional Neur
 
 Fashion-MNIST is a Zalando dataset consisting of a training set of 60,000 examples and a validation set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes: it's a drop-in replacement for MNIST.
 
-Demo modified from AIM410R/R1 session at AWS re:Invent 2019. https://gitlab.com/juliensimon/aim410
+Demo modified from AIM410R/R1 session at AWS re:Invent 2019.
 
 The notebook supports three different versions of the Keras script
 * mnist_keras_tf.py: Keras in symbolic mode with TensorFlow 1.15
